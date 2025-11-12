@@ -9,10 +9,10 @@ colorTo: green
 # 🎓 Agente Inteligente SARESP - Análise Educacional com Google Gemini
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.31.0-red.svg)
-![Gemini](https://img.shields.io/badge/Google-Gemini_1.5_Pro-orange.svg)
+![Gemini](https://img.shields.io/badge/Google-Gemini_2.5_Pro-orange.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 
-Aplicação **focada em chat** para análise de dados educacionais do SARESP usando **Google Gemini 1.5 Pro** e **Streamlit**.
+Aplicação **focada em chat** para análise de dados educacionais do SARESP usando **Google Gemini 2.5 Pro** e **Streamlit**.
 
 ## 🚀 Características Principais
 

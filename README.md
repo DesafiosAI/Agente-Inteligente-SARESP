@@ -213,7 +213,7 @@ Digite suas perguntas no chat, por exemplo:
 ## 🔧 Tecnologias
 
 - **Streamlit 1.31.0** - Framework web
-- **Google Gemini 1.5 Pro** - IA Generativa
+- **Google Gemini 2.5 Pro** - IA Generativa
 - **Pandas 2.1.4** - Análise de dados
 - **Plotly 5.18.0** - Visualizações interativas
 - **OpenPyXL 3.1.2** - Processamento Excel
